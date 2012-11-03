@@ -200,7 +200,10 @@ public abstract class StdLib {
    * @return the integer that was entered
    */
   public static long _readInt() {
-    return new Scanner(System.in).nextInt();
+    Scanner scanner = new Scanner(System.in);
+	int nextInt = scanner.nextInt();
+	scanner.close();
+	return nextInt;
   }
   
   /**
@@ -209,7 +212,10 @@ public abstract class StdLib {
    * @return the double that was entered
    */
   public static double _readReal() {
-    return new Scanner(System.in).nextDouble();
+    Scanner scanner = new Scanner(System.in);
+	double nextDouble = scanner.nextDouble();
+	scanner.close();
+	return nextDouble;
   }
   
   /**
@@ -218,7 +224,10 @@ public abstract class StdLib {
    * @return the string that was entered
    */
   public static String _readString() {
-    return new Scanner(System.in).nextLine();
+    Scanner scanner = new Scanner(System.in);
+	String nextLine = scanner.nextLine();
+	scanner.close();
+	return nextLine;
   }
   
   /**
