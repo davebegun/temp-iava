@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/cs234311-svn/yp2011-g2/!svn/ver/669/trunc/IavaPlugin/IavaPlugin/src/iava/plugin/editor
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/cs234311-svn/yp2011-g2/!svn/ver/663/trunc/IavaPlugin/IavaPlugin/src/iava/plugin/editor/Configuration.java
+END
+IavaEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/cs234311-svn/yp2011-g2/!svn/ver/663/trunc/IavaPlugin/IavaPlugin/src/iava/plugin/editor/IavaEditor.java
+END
+IavaKeywords.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/cs234311-svn/yp2011-g2/!svn/ver/663/trunc/IavaPlugin/IavaPlugin/src/iava/plugin/editor/IavaKeywords.java
+END
+CompletionProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/cs234311-svn/yp2011-g2/!svn/ver/669/trunc/IavaPlugin/IavaPlugin/src/iava/plugin/editor/CompletionProcessor.java
+END
+Scanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/cs234311-svn/yp2011-g2/!svn/ver/663/trunc/IavaPlugin/IavaPlugin/src/iava/plugin/editor/Scanner.java
+END
+FunctionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/cs234311-svn/yp2011-g2/!svn/ver/663/trunc/IavaPlugin/IavaPlugin/src/iava/plugin/editor/FunctionRule.java
+END
+Keyword.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/cs234311-svn/yp2011-g2/!svn/ver/663/trunc/IavaPlugin/IavaPlugin/src/iava/plugin/editor/Keyword.java
+END
